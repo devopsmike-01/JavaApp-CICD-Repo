@@ -1,0 +1,11 @@
+
+[dev]
+172.31.80.222 ansible_user=ansadmin ansible_password=ansadmin
+
+
+[stage]
+172.31.90.32 ansible_user=ansadmin ansible_password=ansadmin
+
+
+[prod]
+172.31.85.89 ansible_user=ansadmin ansible_password=ansadmin

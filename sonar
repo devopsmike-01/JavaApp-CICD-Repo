@@ -1,0 +1,11 @@
+
+mvn sonar:sonar \
+  -Dsonar.projectKey=JavaWebApp \
+  -Dsonar.host.url=http://172.31.85.224:9000 \
+  -Dsonar.login=12660999452096d008fbe7fbe1a0c681527853d3
+
+
+
+#Java installation link
+
+https://stackoverflow.com/questions/55243120/jenkins-add-jdk-11-to-jdk-list 
