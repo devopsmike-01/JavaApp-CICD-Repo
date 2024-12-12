@@ -1,11 +1,11 @@
-# Jenkins CI/CD Pipeline Project Architecture (Java Web Application)
+# JavaApp CI/CD(Jenkins) Pipeline Architecture
 - This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
 - For interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
 - Visit my website for more inquiries and support [DevOpswithMike](https://devopswithmike.tech/).
 
 ![CompleteCICDProject!](https://lucid.app/publicSegments/view/a6ef3233-7dda-483a-a662-d8ec90395ba3/image.png)
 
-# Jenkins Complete CI/CD Pipeline Environment Setup 
+## Pipeline Environment Configuration  
 
 1) Create a GitHub Repository `wandaprep-java-cicd-Project` and push the code in this branch(main) to 
     your remote repository (your newly created repository).
